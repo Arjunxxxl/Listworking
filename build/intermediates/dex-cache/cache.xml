@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_eef2f645e1f9d38f9f039edc5f007d34b62126d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_99668254bc354209c933c666d103434490da53e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3f5ebbca0815470772d26b2acc52968fe3a29e07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59ae4492780dd7df8649102747419e050cdfeb2f">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b39ef9a7e877f49adf0d90d8e63e2674a7c4ec92\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3e40b83c0f91fd8e0bdd07a03401195c9d18db87">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ec5f64759065e97df4cb9864d1c687f6481931a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5f8d84dc2e6051bf6155d4af721587585733f21b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c9d939567c0224363a156d113a7799cb2ce75232\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\dell\Desktop\ListWorking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_51bd71df255c6a32b002f9273c7d916c9c91d1c7\classes.dex" />
+    </item>
+
+</items>
